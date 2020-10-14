@@ -13,3 +13,8 @@ def ret_intersect(list1,list2):
     return list(s1.intersection(s2))
 
 print(ret_intersect(list1,list2))
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 2b90751ba279723f50d4bf03b87f8505dd8c0eb8
